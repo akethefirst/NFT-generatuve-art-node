@@ -1,4 +1,7 @@
-# NFT-generatuve-art-node
-Generate multiple NFT Variations with Node.js
-Create as many NFF Variations as you need
+# generative-art-node
+Create generative art by using the canvas api and node js
 
+## Dependencies
+`
+npm install canvas
+`
